@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "20dbf8e06765dc3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c695ffc7b68dd00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe4959e4f66f2a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2023-08-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e354ab33f45e090",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6beaa10f914e1ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aab66f4071c9ae3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bd7c0b4203f16c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6307dd0891bff13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb22bea3ae38096c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b71d2fff79d654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2fb802e028c27d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2023-08-26.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f27115ea1588955",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2023-08-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbabaf885e2a97f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d74d34c037980ad2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2023-08-26.md"
+              }
+            }
+          },
+          {
+            "id": "097eb5c44e85fe92",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c65f8e0f690adc18",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "c65f8e0f690adc18",
+  "lastOpenFiles": [
+    "daily/2023-08-26.md",
+    "daily",
+    "Daily",
+    "daily.md",
+    "Daily notes",
+    "2023-08-25.md",
+    "2023-08-20.md",
+    "templates/daily.md",
+    "templates",
+    "Daily.md",
+    "Readwise",
+    "Literature notes",
+    "Project",
+    "Permanent notes",
+    "Hubnotes",
+    "Fleeting notes",
+    "Fleeting notes/Literature notes.md"
+  ]
+}
