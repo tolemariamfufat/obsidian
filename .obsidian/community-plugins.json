@@ -4,8 +4,11 @@
   "dataview",
   "obsidian-outliner",
   "periodic-notes",
-  "readwise-official",
   "obsidian-style-settings",
   "obsidian-checklist-plugin",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "obsidian-advanced-slides",
+  "templater-obsidian",
+  "obsidian-reminder-plugin"
 ]

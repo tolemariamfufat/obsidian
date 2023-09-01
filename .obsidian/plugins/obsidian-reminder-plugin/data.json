@@ -1,0 +1,36 @@
+{
+  "scanned": true,
+  "reminders": {
+    "daily/Tasks.md": [
+      {
+        "title": "DSTV PAY",
+        "time": "2023-09-06",
+        "rowNumber": 0
+      },
+      {
+        "title": "IDIR PAY",
+        "time": "2023-09-10",
+        "rowNumber": 1
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "9:30",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": true,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

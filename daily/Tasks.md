@@ -1,0 +1,4 @@
+- [ ] DSTV PAY  ⏰ 2023-09-06 📅 2023-09-06 🔁 every month 
+- [ ] IDIR PAY  ⏰ 2023-09-10 📅 2023-09-10 🔁 every month on Sunday 
+- [ ] 
+- [ ] 
