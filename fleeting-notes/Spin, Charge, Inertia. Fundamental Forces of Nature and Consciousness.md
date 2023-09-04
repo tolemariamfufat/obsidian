@@ -5,10 +5,10 @@ summary:
 tags: inbox
 ---
 ## Spin, Charge and Inertia
-1. Spin is movement
-2. Charge is transformation
-3. Mass is inertia
-4. Spin, Charge and Mass are abstract relationships and they are consciousness manifested.
+1. Spin is movement; in consciousness terms spin is focused intention and attention. That is focused awareness. 
+2. Charge: in consciousness terms charge is transformation. It is the merge of subject-object split. Charge is transcendence. 
+3. Inertia: in spiritual terms inertia is meditation. I think these includes practicing let go, acceptance, gratitude, etc. 
+4. Focused awareness (intention, attention or plan), meditation (maintaining the flow ) and transcendence (oneness of subject-object) all together form choice-less awareness. 
 ##  Consciousness as a screen
 1. What we see as objective reality outside of us is the dashboard of first experience of the cosmic mind;
 2. We are the second witness of the experience of the cosmic mind;
