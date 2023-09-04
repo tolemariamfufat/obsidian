@@ -1,4 +1,6 @@
 - [ ] DSTV PAY  ⏰ 2023-09-06 📅 2023-09-06 🔁 every month 
 - [ ] IDIR PAY  ⏰ 2023-09-10 📅 2023-09-10 🔁 every month on Sunday 
-- [ ] 
+- [ ] Duity Report  ⏰ 2023-09-13 📅 2023-09-13
+- [ ] Maid Salary  ⏰ 2023-09-19 📅 2023-09-19 🔁 every month 
+- [ ] School Pay  ⏰ 2023-10-09 📅 2023-10-09 🔁 every week on Monday 
 - [ ] 
