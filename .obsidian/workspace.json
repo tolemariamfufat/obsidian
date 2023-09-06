@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting-notes/Local Mind vs Universal Mind.md",
+                "file": "fleeting-notes/Energy Cycles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fleeting-notes/Local Mind vs Universal Mind.md",
+                "file": "fleeting-notes/Energy Cycles.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fleeting-notes/Local Mind vs Universal Mind.md",
+                "file": "fleeting-notes/Energy Cycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fleeting-notes/Local Mind vs Universal Mind.md"
+                "file": "fleeting-notes/Energy Cycles.md"
               }
             }
           },
@@ -185,8 +185,12 @@
   },
   "active": "b60f0d52791976b1",
   "lastOpenFiles": [
-    "daily/2023-09-04.md",
+    "daily/Tasks.md",
+    "fleeting-notes/Energy Cycles.md",
+    "daily/2023-09-06.md",
+    "daily/2023-09-05.md",
     "fleeting-notes/Local Mind vs Universal Mind.md",
+    "daily/2023-09-04.md",
     "daily/2023-08-27.md",
     "daily/2023-08-26.md",
     "fleeting-notes/The Wheel Metaphor and Entanglement.md",
@@ -194,7 +198,6 @@
     "daily/2023-09-02.md",
     "fleeting-notes/Spin, Charge, Inertia. Fundamental Forces of Nature and Consciousness.md",
     "fleeting-notes/Sensation, Thought, Feelings, Perception and Emotion.md",
-    "daily/Tasks.md",
     "permanent-notes/awareness.md",
     "README.md",
     "daily/2023-09-01.md",
@@ -208,9 +211,6 @@
     "meeting/Meeting of DGC.md",
     "meeting/meeting-3.md",
     "meeting/meeting-4.md",
-    "templates/fleeting.md",
-    "meeting/meeting-2.md",
-    "meeting/meeting-1.md",
     "fleeting-notes",
     "permanent-notes",
     "permanent",
