@@ -3,11 +3,6 @@
   "reminders": {
     "daily/Tasks.md": [
       {
-        "title": "DSTV PAY",
-        "time": "2023-09-06 10:47",
-        "rowNumber": 0
-      },
-      {
         "title": "IDIR PAY",
         "time": "2023-09-10",
         "rowNumber": 1
@@ -21,6 +16,11 @@
         "title": "Maid Salary",
         "time": "2023-09-19",
         "rowNumber": 3
+      },
+      {
+        "title": "DSTV PAY",
+        "time": "2023-10-06 10:47",
+        "rowNumber": 0
       },
       {
         "title": "School Pay",

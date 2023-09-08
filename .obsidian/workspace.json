@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fleeting-notes/Energy Cycles.md",
+                "file": "daily/2023-09-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fleeting-notes/Energy Cycles.md",
+                "file": "daily/2023-09-08.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fleeting-notes/Energy Cycles.md",
+                "file": "daily/2023-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fleeting-notes/Energy Cycles.md"
+                "file": "daily/2023-09-08.md"
               }
             }
           },
@@ -185,9 +185,11 @@
   },
   "active": "b60f0d52791976b1",
   "lastOpenFiles": [
+    "daily/2023-09-08.md",
     "daily/Tasks.md",
-    "fleeting-notes/Energy Cycles.md",
     "daily/2023-09-06.md",
+    "daily/2023-09-07.md",
+    "fleeting-notes/Energy Cycles.md",
     "daily/2023-09-05.md",
     "fleeting-notes/Local Mind vs Universal Mind.md",
     "daily/2023-09-04.md",
@@ -209,8 +211,6 @@
     "meeting/AC Meeting.md",
     "meeting/Meeting of AC.md",
     "meeting/Meeting of DGC.md",
-    "meeting/meeting-3.md",
-    "meeting/meeting-4.md",
     "fleeting-notes",
     "permanent-notes",
     "permanent",
