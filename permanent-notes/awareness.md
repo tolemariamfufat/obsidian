@@ -1,6 +1,0 @@
----
-topic:
-background:
-summary:
-reference:
----

@@ -1,6 +1,0 @@
----
-title:
-author: 
-publisher:
-place:
----

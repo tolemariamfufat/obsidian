@@ -3,19 +3,9 @@
   "reminders": {
     "daily/Tasks.md": [
       {
-        "title": "**Duity Report",
-        "time": "2023-09-13",
-        "rowNumber": 2
-      },
-      {
         "title": "**IDIR PAY",
-        "time": "2023-09-17",
+        "time": "2023-09-30",
         "rowNumber": 1
-      },
-      {
-        "title": "**Maid Salary",
-        "time": "2023-09-19",
-        "rowNumber": 3
       },
       {
         "title": "**DSTV PAY",
@@ -25,7 +15,17 @@
       {
         "title": "**School Pay",
         "time": "2023-10-09",
+        "rowNumber": 3
+      },
+      {
+        "title": "**Estifo's Taxi",
+        "time": "2023-10-19",
         "rowNumber": 4
+      },
+      {
+        "title": "**Maid Salary",
+        "time": "2023-10-21 00:00",
+        "rowNumber": 2
       }
     ]
   },
