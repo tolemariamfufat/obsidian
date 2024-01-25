@@ -1,5 +1,6 @@
-- [ ] **DSTV PAY  ⏰ 2023-10-06 10:47 📅 2023-10-06 🔁 every month 
-- [ ] **IDIR PAY  ⏰ 2023-09-30 📅 2023-09-23 🔁 every week 
+- [ ] **DSTV PAY  ⏰ 2023-10-18 📅 2023-10-06 🔁 every month 
+- [ ] **IDIR PAY  ⏰ 2023-10-18 00:00 📅 2023-10-18 🔁 every week 
+- [x] **IDIR PAY  ⏰ 2023-09-30 📅 2023-09-23 🔁 every week ✅ 2023-10-11
 - [ ] **Maid Salary  ⏰ 2023-10-21 00:00 📅 2023-10-21 🔁 every month
 - [ ] **School Pay  ⏰ 2023-10-09 📅 2023-10-09 🔁 every week on Monday
 - [ ] **Estifo's Taxi  ⏰ 2023-10-19 📅 2023-10-19 🔁 every week 🔼 
